@@ -14,3 +14,7 @@
 # Enlaces de interés
 # Código HTTP
 ## [http codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+# Comandos para subir al repo
+
+![alt text](image.png)
