@@ -18,3 +18,9 @@
 # Comandos para subir al repo
 
 ![alt text](image.png)
+
+# Requerimientos de Ejercicio capas
+
+- **InsertarLibro**
+- **ObtenerTodosLosLibros**
+- **BuscarLibrosPorAutor**
