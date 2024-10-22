@@ -21,6 +21,8 @@
 
 # Requerimientos de Ejercicio capas
 
+![Ejercicio](Ejercicio.png)
+
 - **InsertarLibro**
 - **ObtenerTodosLosLibros**
 - **BuscarLibrosPorAutor**
